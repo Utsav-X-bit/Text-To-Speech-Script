@@ -27,5 +27,5 @@ This Script is used to convert Text to Speech using [voice-gen.ai](https://www.v
 4. All Automated  
 
 -----------------------------------------------------------------------------------------
-Made By utsav-X-Bit [Github] @Evokkers [Telegram] 
+Made By utsav-X-Bit [Utsav-X-Bit](https://github.com/Utsav-X-bit) [Telegram - XD_OD](https://t.me/Evokkers)
 -----------------------------------------------------------------------------------------
