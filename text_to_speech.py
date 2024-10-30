@@ -6,6 +6,7 @@ import os
 import sys
 Mail = "sifike6650@ofionk.com"
 Pass = "asHKasdhk@jhd1"
+voice = 3756
 def get_auth_token():
     global auth_token
     url0 = 'https://api.voice-gen.ai/v1/signin'
@@ -48,7 +49,7 @@ def text_to_speech(text):
     data = {
         "title": "Ai-Speech",
         "text": text,
-        "voice": 3756,
+        "voice": voice,
         "speed": 1,
         "output": "mp3",
         "is_clone": False
